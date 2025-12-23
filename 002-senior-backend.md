@@ -6,8 +6,6 @@
 
 We're looking for a Senior Backend Engineer to build and maintain our Golang-based API layer. You'll own services end-to-end—from schema design through production—working with a modern, type-safe stack that prioritizes correctness and developer experience.
 
-We think of our application as a modern distributed monolith: a single deployable that's well-structured for team velocity and future decomposition, without premature scalability complexity. You'll help us refine and evolve this pattern.
-
 ## Our Stack
 
 Golang, ConnectRPC, Protobuf (Buf), entgo.io, PostgreSQL, Atlas migrations, River Queue. Backend for Frontend (BFF) layer in TypeScript/Next.js on Vercel. Auth via WorkOS. Some GraphQL.
